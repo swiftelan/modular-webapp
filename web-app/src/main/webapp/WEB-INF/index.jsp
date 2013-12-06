@@ -9,7 +9,8 @@
 </head>
 <body>
 	<div class="container">
-		<a href="${pageContext.request.contextPath}/Jar.action">Access a JSP in a JAR</a>
+	<h1>Modular Application</h1>
+		<p><a href="${pageContext.request.contextPath}/Jar.action">Access a JSP in a JAR</a></p>
 	</div>
 </body>
 </html>

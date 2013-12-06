@@ -8,6 +8,7 @@
 </head>
 <body>
 	<div class="container">
+		<h1>JAR with Tag Library and Actions</h1>
 		<p>This JSP file is in a jar.</p>
 	</div>
 </body>
