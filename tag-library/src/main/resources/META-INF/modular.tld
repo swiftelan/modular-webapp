@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taglib xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-jsptaglibrary_2_1.xsd"
+	version="2.1">
+	<description>Tag Library that includes the Bootstrap Framework</description>
+	<display-name>Modular Tag Library</display-name>
+	<tlib-version>1.0</tlib-version>
+	<short-name>m</short-name>
+	<uri>http://swiftelan.com/modular</uri>
+	
+	<tag>
+		<description>Render import elements for CSS and JavaScript resources</description>
+		<name>resources</name>
+		<tag-class>com.swiftelan.modular.tag.ResourcesTag</tag-class>
+		<body-content>empty</body-content>
+	</tag>
+</taglib>
